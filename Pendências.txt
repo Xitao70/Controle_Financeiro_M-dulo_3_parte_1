@@ -1,0 +1,12 @@
+Nesta entrega da primeira parte do projeto pessoal em javascript, foram feitos os uploads dos arquivos e suas respectivas pastas referente ao projeto.
+Restam algumas pendÊncias para a finalização do projeto, que serão resolvidas na entrega da segunda parte.
+
+..::PENDÊNCIAS::..
+1-Resolver a ação do botão [Adicionar Transação]
+    Os campos "Compra/Venda", "Nome da mercadoria" e "Valor" são inseridos no LocalStorage, porém, só são exibidos na tabela "Extrato de Transações" após a atualização
+    da página do browser mediante o uso da tecla [F5].
+2-Resolver a ação do botão [Cadastro de transações]
+    Quando o botão é acionado o campo "Nome da mercadoria" não esta recebendo foco.
+3-Formatar o campo "Valor" para o recebimento de números apenas, e apresentá-los na tabela "Extrato de Transações"  no formato da moeda corrente. Ex. R$ 120,00
+4-Formatar o campo "total" na tabela "Extrato de Transações" para exibir a soma dos valores dos itens cadastrados 
+5-Botão "Limpar dados" funcionando a contento, porém, ainda falta exibir mensagem " Não há itens cadastrados".
