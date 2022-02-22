@@ -3,7 +3,7 @@ Restam algumas pendÊncias para a finalização do projeto, que serão resolvida
 
 ..::PENDÊNCIAS::..
 1-Resolver a ação do botão [Adicionar Transação]
-    Os campos "Compra/Venda", "Nome da mercadoria" e "Valor" são inseridos no LocalStorage, porém, só são exibidos na tabela "Extrato de Transações" após a atualização
+    Os dados dos campos "Compra/Venda", "Nome da mercadoria" e "Valor" são inseridos no LocalStorage, porém, só são exibidos na tabela "Extrato de Transações" após a atualização
     da página do browser mediante o uso da tecla [F5].
 2-Resolver a ação do botão [Cadastro de transações]
     Quando o botão é acionado o campo "Nome da mercadoria" não esta recebendo foco.
